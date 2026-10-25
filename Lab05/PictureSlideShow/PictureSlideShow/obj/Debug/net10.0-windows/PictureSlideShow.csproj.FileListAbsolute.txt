@@ -1,0 +1,17 @@
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\bin\Debug\net10.0-windows\PictureSlideShow.exe
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\bin\Debug\net10.0-windows\PictureSlideShow.deps.json
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\bin\Debug\net10.0-windows\PictureSlideShow.runtimeconfig.json
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\bin\Debug\net10.0-windows\PictureSlideShow.dll
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\bin\Debug\net10.0-windows\PictureSlideShow.pdb
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.Form1.resources
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.csproj.GenerateResource.cache
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.AssemblyInfoInputs.cache
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.AssemblyInfo.cs
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.dll
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\refint\PictureSlideShow.dll
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.pdb
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureSlideShow.genruntimeconfig.cache
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\ref\PictureSlideShow.dll
+D:\LAPTRINHWIN\Lab05\PictureSlideShow\PictureSlideShow\obj\Debug\net10.0-windows\PictureS.DB4117B7.Up2Date
